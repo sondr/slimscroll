@@ -16,8 +16,9 @@
   "dependencies": {
     "browserify": ">=3.46.0",
     "classie": ">=0.0.1",
-    "util-extend": "^1.0.1",
-    "domhelper": "~0.9.0"
+    "domhelper": "~0.9.0",
+    "requirejs": "^2.3.5",
+    "util-extend": "^1.0.1"
   },
   "devDependencies": {
     "chai": "1.5.0",
